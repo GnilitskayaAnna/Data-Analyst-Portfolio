@@ -11,9 +11,9 @@
 ## Мои проекты
 По приведённым ниже ссылкам можно ознакомиться с некоторыми из проектов, выполненных мною во время обучения и практики, а также с отзывами на них
 
-	> <a href="https://github.com/GnilitskayaAnna/Data_Analyst_Portfolio_Project_1?search=1" > Проект 1: Курсовая по Excel  </a>
+> <a href="https://github.com/GnilitskayaAnna/Data_Analyst_Portfolio_Project_1?search=1" > Проект 1: Курсовая по Excel  </a>
 
-	> <a href="https://github.com/GnilitskayaAnna/Data_Analyst_Portfolio_Project_2/blob/main/README.md" > Проект 2: Курсовая по SQL</a>
+> <a href="https://github.com/GnilitskayaAnna/Data_Analyst_Portfolio_Project_2/blob/main/README.md" > Проект 2: Курсовая по SQL</a>
 
 
 ### Большое спасибо всем, кто обратил внимание на это портфолио. Если мой уровень hard skills и soft skills соответствует потребностям вашей организации, то я очень надеюсь на плодотворное сотрудничество. В любом случае, я благодарна Вам за уделённое время и желаю найти подходящего под Ваши задачи профессионала
