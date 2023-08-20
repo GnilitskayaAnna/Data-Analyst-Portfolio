@@ -9,15 +9,11 @@
 - Системы управления базами данных: ``PostgreSQL``
 - Средства визуализации данных: ``Microsoft Excel``, ``Microsoft PowerPoint``, ``Google Charts``, ``SQL``
 ## Мои проекты
-В рамках обучения и практики мне довелось выполнить следующие проекты.
-- Проект 1 Анализ бизнес-модели онлайн-кинотеатра и настройка калькулятора юнит-экономики
+По приведённым ниже ссылкам можно ознакомиться с некоторыми из проектов, выполненных мною во время обучения и практики.
 
-<p> С результатами моей работы можно ознакомиться  <p>
-	> <a href="https://github.com/GnilitskayaAnna/Data_Analyst_Portfolio_Project_1?search=1" > здесь </a>
+	> <a href="https://github.com/GnilitskayaAnna/Data_Analyst_Portfolio_Project_1?search=1" > Проект 1: Курсовая по Excel  </a>
 
-- Проект 2 Курсовая по SQL
-<p> С результатами моей работы можно ознакомиться  <p>
-	> <a href="https://github.com/GnilitskayaAnna/Data_Analyst_Portfolio_Project_2/blob/main/README.md" > здесь </a>
+	> <a href="https://github.com/GnilitskayaAnna/Data_Analyst_Portfolio_Project_2/blob/main/README.md" > Проект 2: Курсовая по SQL</a>
 
 
 ### Большое спасибо всем, кто обратил внимание на это портфолио. Если мой уровень hard skills и soft skills соответствует потребностям вашей организации, то я очень надеюсь на плодотворное сотрудничество. В любом случае, я благодарна Вам за уделённое время и желаю найти подходящего под Ваши задачи профессионала
